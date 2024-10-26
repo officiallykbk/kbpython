@@ -324,8 +324,8 @@ while cont=="y":
     # Get user input for transformations
     transformations = []
     actions = input("Enter the sequence of transformations (T for Translation, R for Rotation, S for Scaling, F for Reflection, H for Shearing): ").upper()
-    options=['T','R','S','F','H']
-    while actions not in options:
+    # options=['T','R','S','F','H']
+    while actions not in "TRSFH":
         print("You can only enter T(translate) or R(rotate) or S(scale) or F(reflect) or H(shear) ")
         actions = input("Enter the sequence of transformations (T for Translation, R for Rotation, S for Scaling, F for Reflection, H for Shearing): ").upper()
         

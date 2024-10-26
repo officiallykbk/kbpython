@@ -1,0 +1,9 @@
+Api's
+Jokes--- https://official-joke-api.appspot.com/random_joke
+GenderDeterminer--- https://api.genderize.io?name=kwabena
+insults--- https://evilinsult.com/generate_insult.php?lang=en&type=json
+chuck_norris--- https://api.chucknorris.io/jokes/random
+Trivia Questions---- https://opentdb.com/api.php?amount=10&category=17&difficulty=easy
+randomAdvice--- 	https://api.adviceslip.com/advice/search/love
+affirmations-- https://www.affirmations.dev/
+Quotes--- https://api.quotable.io/quotes/random
